@@ -5,5 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "kerykeion>=4.26.2",
+    "pip>=25.1",
+    "setuptools>=80.0.0",
+    "vedastro>=1.23.19",
+    "wheel>=0.45.1",
 ]
+
