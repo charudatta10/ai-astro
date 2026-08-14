@@ -1,5 +1,10 @@
 # ai-astro
 
+<p align="center">
+  <img src="assets/cover.png" alt="ai-astro" width="800"/>
+</p>
+
+
 ![Version](https://img.shields.io/github/v/release/charudatta10/ai-astro)
 
 <!-- Badges: Project Status GitHub -->
