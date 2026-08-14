@@ -1,5 +1,7 @@
 # ai-astro
 
+![Version](https://img.shields.io/github/v/release/charudatta10/ai-astro)
+
 <!-- Badges: Project Status GitHub -->
 ![license](https://flat.badgen.net/static/license/EULA/blue)
 ![release](https://flat.badgen.net/github/release/charudatta10/ai-astro)
@@ -19,9 +21,9 @@
 <!-- Badges: Tools used -->
 `Python` `Kairoken`
 
-## Documentation
+## What is this?
 
-AI based astro calculation  
+ai-astro is an AI-powered astrology toolkit that calculates and renders astrological data from birth information. It produces natal and lagna charts as vector SVG diagrams using the VedAstro library, svgwrite, and matplotlib. Point it at a birth record and it returns the corresponding chart images and planetary positions.  
 
 ## Features
 
@@ -51,6 +53,10 @@ invoke
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests. [Report a bug or Request a feature](https://github.com/charudatta10/ai-astro/issues)
+
+## License
+
+This project is licensed under the terms in [LICENSE.md](LICENSE.md).
 
 ## COPYRIGHT NOTICE
 
